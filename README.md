@@ -42,4 +42,4 @@ Y → GP21 (break the block in front of you)
 - Title screen
 
 # Other information
-This is maded using AI. This is a summary of how AI can be used for both good and bad things.
+This is madded using AI. This is a summary of how AI can be used for both good and bad things.
