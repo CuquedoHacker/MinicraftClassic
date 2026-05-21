@@ -7,13 +7,20 @@ If you dont have or dont want it, you can change the code to make work on your s
 # Controls
 In the hat mencionated above, the controls are:
 joy_up → GP2 (moves the player forward) 
+
 joy_down → GP18 (moves the player backward) 
+
 joy_left → GP16 (rotates the camera to the left) 
+
 joy_right → GP20 (rotates the camera to the right)
 
+
 A → GP15 (places the block equipated in the hotbar)
+
 B → GP17 (goes to the next slot in the hotbar or, if the inventory is open, get the selected block)
+
 X → GP19 (close or open the inventory)
+
 Y → GP21 (break the block in front of you)
 
 # Features 
