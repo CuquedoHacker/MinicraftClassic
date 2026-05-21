@@ -1,6 +1,7 @@
 # MinicraftClassic
 A project that makes your favorite block game work on RP2040-based devices, such as Raspberry Pi Pico, created using MicroPython.
 To use this, you need this hat on your Raspberry Pi Pico: https://www.aliexpress.com/item/1005003462221196.html?spm=a2g0o.order_list.order_list_main.11.326dcaa4KWZSRa&gatewayAdapt=glo2bra
+
 If you dont have or dont want it, you can change the code to make work on your screen.
 
 # Features
