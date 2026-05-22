@@ -35,11 +35,11 @@ Y → GP21 (break the block in front of you)
 - Considerable performance (increased using overclocking to 240 MHz)
 - The first real minecraft clone to the RP2040
 - A 16x16 map
+- Tittle screen (in beta)
 
 # Planned features
 - Expand to other platforms, such Windows, MacOS, Linux or Consoles
 - Survival Mode
-- Title screen
 
 # Other information
 This is madded using AI. This is a summary of how AI can be used for both good and bad things.
