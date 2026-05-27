@@ -10,13 +10,10 @@ Please read this guide before you start contributing.
 
 2. Clone your fork locally:
 
-``bash
 git checkout -b my-new-feature
 
-``
 3. Create a Branch for your changes:
 
-``bash
 git checkout -b my-new-feature
 
 ``
